@@ -75,7 +75,7 @@ html,body{
     margin-top: 20px;
 }
 
-.input-container span,.form p{
+.input-container span,.form p{  
     display: inline-block;
     width: 100%;
     font-size: 17px;
@@ -90,7 +90,7 @@ html,body{
 .input-container input[type=text]{
     padding: 8px 10px 8px 10px;
     margin-top: 8px;
-    width: 344px;
+    width: 317px;
     height: 55px;
     border: 1px solid #ccc;    
 }
@@ -204,11 +204,10 @@ html,body{
 }
 
 .footer{
-    border-top: 2px solid rgb(107, 107, 107);
     padding: 60px 0;
     text-align: center;
     color: white;
-    background-color:rgba(33, 35, 67, 0.7);
+    background-color:#212343;
 }
 
 .footer p{
