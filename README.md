@@ -1,4 +1,5 @@
-# Projeto Landing Page DC
-Projeto de uma landing page reativa da Danki Code
+# Project Landing Page Danki Code
+Project of a responsive landing page made during the course "Curso Webmaster Front-End Completo" by Danki Code
 
-Desenvolvido por Gabriel Alcantaro
+
+Developed by Gabriel Alcantaro
